@@ -1,5 +1,9 @@
 # 🧠 Muse 2 EEG Brain Activity Monitoring System
 
+<div align="center">
+<img src="meditation_muse.png" alt="MuseMeditation - EEG Brain Monitoring System" width="600"/>
+</div>
+
 A comprehensive Python application for real-time EEG monitoring and meditation state analysis using the Muse 2 headband. This professional-grade system includes advanced brain wave processing, meditation analysis, and Ubuntu 24.04 compatibility fixes.
 
 ## ✨ **Key Features**
