@@ -3,6 +3,11 @@
 🎉 WORKING MUSE 2 GUI - Using Fixed muselsl Library
 This GUI works with the patched muselsl that actually streams to LSL!
 Real-time EEG visualization with meditation analysis
+
+⚠️  IMPORTANT DISCLAIMER:
+This software is for educational and research purposes only.
+Not intended for medical diagnosis or treatment. Use at your own risk.
+Always consult qualified medical professionals for health-related concerns.
 """
 
 import sys

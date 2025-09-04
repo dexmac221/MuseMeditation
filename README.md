@@ -4,14 +4,16 @@
 <img src="meditation_muse.png" alt="MuseMeditation - EEG Brain Monitoring System" width="600"/>
 </div>
 
-A comprehensive Python application for real-time EEG monitoring and meditation state analysis using the Muse 2 headband. This professional-grade system includes advanced brain wave processing, meditation analysis, and Ubuntu 24.04 compatibility fixes.
+A comprehensive Python application for real-time EEG monitoring and meditation state analysis using the Muse 2 headband. This educational project includes brain wave processing, meditation analysis, and Ubuntu 24.04 compatibility fixes.
+
+> ⚠️ **IMPORTANT DISCLAIMER**: This software is provided for educational and research purposes only. It is not a medical device and should not be used for medical diagnosis or treatment. Use at your own risk. Always consult qualified medical professionals for health-related concerns.
 
 ## ✨ **Key Features**
 
 - **🎯 Real-time EEG Visualization**: Live plots of all 4 EEG channels (TP9, AF7, AF8, TP10)
-- **🧘 Advanced Meditation Analysis**: Research-based algorithms for brain state classification
+- **🧘 Meditation Analysis**: Research-inspired algorithms for brain state classification
 - **📊 Multi-sensor Integration**: EEG + PPG heart rate + accelerometer data
-- **⚡ Professional GUI**: Modern PyQt5 interface with real-time plotting
+- **⚡ Modern GUI**: PyQt5 interface with real-time plotting
 - **🔧 Ubuntu 24.04 Fixed**: Includes critical muselsl library patches
 - **📈 Session Tracking**: 10-second and 1-minute meditation score tracking
 - **🎚️ Personal Calibration**: 20-second baseline calibration for improved accuracy
@@ -69,10 +71,10 @@ python working_muse_gui.py
 - **🔄 Auto-recovery**: Automatic reconnection on connection loss
 
 ### Advanced Features:
-- **Research-grade Analysis**: Uses frontal lobe EEG patterns for meditation detection
+- **Research-Inspired Analysis**: Uses frontal lobe EEG patterns for meditation detection
 - **Multi-timeframe Tracking**: Both short-term and long-term meditation trends
 - **Signal Quality Monitoring**: Real-time assessment of electrode contact
-- **Professional Visualization**: High-performance pyqtgraph plotting
+- **High-Performance Visualization**: pyqtgraph plotting for real-time data
 
 ## 🧘 **Meditation Analysis**
 
@@ -115,7 +117,7 @@ Real-time Brain Analysis & Visualization
 ### **Core Technologies:**
 - **🔗 muselsl**: Bluetooth communication with Muse 2 (patched for Ubuntu 24.04)
 - **📊 pylsl**: Lab Streaming Layer for real-time data streaming
-- **🖥️ PyQt5**: Professional GUI framework with dark theme
+- **🖥️ PyQt5**: Modern GUI framework with dark theme
 - **📈 pyqtgraph**: High-performance real-time plotting (up to 256 Hz)
 - **🧮 NumPy/SciPy**: Advanced signal processing and mathematical computations
 - **🔵 Bleak**: Modern Bluetooth Low Energy backend for device discovery
@@ -125,7 +127,7 @@ Real-time Brain Analysis & Visualization
 - **⚡ Enhanced Data Pipeline**: Improved LSL streaming reliability  
 - **🔄 Robust Error Handling**: Automatic reconnection and graceful failure management
 - **📊 Advanced Analytics**: Multi-timeframe meditation tracking and statistics
-- **🎨 Professional UI**: Modern interface with real-time performance optimization
+- **🎨 Modern UI**: Clean interface with real-time performance optimization
 
 ## 🛠️ **Troubleshooting**
 
@@ -290,7 +292,7 @@ The system can be modified for:
 
 ### **Technical Milestones:**
 - ✅ **Fixed Critical Bugs**: Resolved Ubuntu 24.04 muselsl compatibility issues
-- ✅ **Professional GUI**: Built research-grade real-time EEG visualization
+- ✅ **Modern GUI**: Built real-time EEG visualization interface
 - ✅ **Advanced Analytics**: Implemented sophisticated meditation detection algorithms  
 - ✅ **Robust Architecture**: Created production-ready brain-computer interface
 - ✅ **Multi-Platform Support**: Comprehensive Linux compatibility with error handling
@@ -298,9 +300,9 @@ The system can be modified for:
 ### **Proven Performance:**
 - **1,400+ sensor samples** successfully processed in testing
 - **Real-time processing** at 256 Hz EEG sample rate
-- **Professional visualization** with smooth 60 FPS interface updates
+- **Smooth visualization** with 60 FPS interface updates
 - **Reliable connection management** with automatic recovery
-- **Research-grade accuracy** in meditation state detection
+- **Experimental accuracy** in meditation state detection
 
 ## 📚 **Educational Value**
 
@@ -308,7 +310,7 @@ This project demonstrates mastery of:
 - **🔬 Signal Processing**: Advanced EEG analysis and filtering
 - **💻 Real-time Systems**: High-frequency data streaming and processing
 - **🧠 Neuroscience**: Brain wave patterns and meditation research  
-- **🖥️ GUI Development**: Professional PyQt5 interface design
+- **🖥️ GUI Development**: Modern PyQt5 interface design
 - **🔧 System Integration**: Hardware-software interface programming
 - **🛠️ Debugging**: Complex Bluetooth and library compatibility issues
 
@@ -352,8 +354,8 @@ We welcome contributions from the community! Please see our [Contributing Guidel
 ### Development Status:
 - ✅ **Core Functionality**: Complete and operational
 - ✅ **Ubuntu 24.04**: Fully supported with patches  
-- ✅ **GUI Interface**: Professional PyQt5 implementation
-- ✅ **EEG Analysis**: Research-grade meditation detection
+- ✅ **GUI Interface**: Modern PyQt5 implementation
+- ✅ **EEG Analysis**: Research-inspired meditation detection algorithms
 - 🔄 **Cross-platform**: Windows/macOS support in progress
 - 🔄 **Advanced Features**: ML-enhanced analysis planned
 
@@ -364,7 +366,7 @@ We welcome contributions from the community! Please see our [Contributing Guidel
 
 ### Third-Party Libraries
 - **muselsl** - Muse headband communication (with Ubuntu 24.04 patches)
-- **PyQt5** - Professional GUI framework
+- **PyQt5** - Modern GUI framework
 - **pyqtgraph** - High-performance real-time plotting
 - **NumPy/SciPy** - Scientific computing foundation
 - **pylsl** - Lab Streaming Layer for real-time data
@@ -381,7 +383,9 @@ This project includes critical bug fixes for the open-source muselsl library, sp
 
 ---
 
-**🎉 You now have a complete, professional-grade EEG brain monitoring system!**  
+**🎉 You now have a complete EEG brain monitoring system for educational and research use!**  
 **Ready for meditation training, research applications, and educational demonstrations.**
+
+> ⚠️ **USE AT YOUR OWN RISK**: This is experimental software for educational purposes. Not intended for medical use or clinical diagnosis. Users assume full responsibility for any consequences of use.
 
 **⭐ If this project helps you, please consider giving it a star on GitHub! ⭐**
